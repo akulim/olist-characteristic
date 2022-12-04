@@ -7,7 +7,7 @@ This is a final project of Data Wrangling with SQL from pacmann.ai
 
 ## Conclusion
 * Olist could focus on state SP to maintain the loyalty of customers, and raise awareness in other states.
-*. Olist is a segmented ecommerce, the most sold-out products are those for health-beauty and home appliance.
+* Olist is a segmented ecommerce, the most sold-out products are those for health-beauty and home appliance.
 * Despite having health-beauty as the most sold-out products in 2018. The top-seller in Olist is selling watches. It could give opportunity for other sellers to find their niche product, and also improve their performance. For the top-seller could deliver the product within 9 days.
 * Olist still need to improve its sellers performance because the YoY sales and YoY total order not increased significantly.
 
