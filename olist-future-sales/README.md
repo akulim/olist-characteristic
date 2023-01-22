@@ -1,7 +1,7 @@
-#Olist Future Sales Prediction
+# Olist Future Sales Prediction
 
-##Objective
+## Objective
 - Customer segmentation.
-= Predicting future sales & total order (given that all the features remain unchanged)
+- Predicting future sales & total order (given that all the features remain unchanged)
 
 
